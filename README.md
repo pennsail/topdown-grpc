@@ -2,7 +2,7 @@
 
 ### Overview
 
-This repository contains an open-source implementation of **TopFull**, an adaptive overload control system for SLO-oriented microservices, based on the algorithm proposed in the paper *"TopFull: An Adaptive Top-Down Overload Control for SLO-Oriented Microservices"*.
+This repository contains an *unofficial*, open-source implementation of **TopFull**, an adaptive overload control system for SLO-oriented microservices, based on the algorithm proposed in the paper *"TopFull: An Adaptive Top-Down Overload Control for SLO-Oriented Microservices"*.
 TopFull is designed to mitigate overloads in microservices by performing API-wise load control. The system dynamically adjusts the admitted rates of APIs at entry points based on the severity of the overload, using a Reinforcement Learning (RL)-based rate controller.
 
 ### Thread Safety
